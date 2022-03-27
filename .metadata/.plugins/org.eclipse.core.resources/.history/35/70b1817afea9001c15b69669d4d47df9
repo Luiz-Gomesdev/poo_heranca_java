@@ -1,0 +1,7 @@
+package entities;
+
+public class NaturalPerson extends TaxPayer{
+	
+	
+	
+}
